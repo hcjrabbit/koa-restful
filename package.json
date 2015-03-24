@@ -1,0 +1,24 @@
+{
+  "name": "koa-restful",
+  "version": "0.0.1",
+  "description": "koa-restful模块",
+  "main": "index.js",
+  "_npmUser": {
+    "name": "he chengjun",
+    "email": "437851081@qq.com"
+  },
+  "keywords": [
+    "koa",
+    "middleware",
+    "router",
+    "route"
+  ],
+  "dependencies": {
+    "path": "^0.11.14",
+    "require-dir": "^0.2.0"
+  },
+  "engines": {
+    "node": "> 0.11.4"
+  },
+  "license": "MIT"
+}
