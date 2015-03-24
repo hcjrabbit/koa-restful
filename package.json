@@ -2,6 +2,14 @@
   "name": "koa-restful",
   "version": "0.0.1",
   "description": "koa-restful模块",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hcjrabbit/koa-restful.git"
+  },
+  "author": {
+    "name": "He chengjun",
+    "email": "437851081@qq.com"
+  },
   "main": "index.js",
   "_npmUser": {
     "name": "he chengjun",
@@ -20,5 +28,6 @@
   "engines": {
     "node": "> 0.11.4"
   },
+  "homepage": "https://github.com/hcjrabbit/koa-restful",
   "license": "MIT"
 }
